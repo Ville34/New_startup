@@ -1,1 +1,1 @@
-# New_startup
+A simple startup/signup page with mailchimp
